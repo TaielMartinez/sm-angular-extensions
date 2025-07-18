@@ -1,0 +1,30 @@
+{
+    "name": "sm-angular-v2",
+    "displayName": "sm-angular-v2",
+    "description": "Paquete de extensiones para angular de SM-Soluciones | OpenData",
+    "version": "1.0.2",
+    "publisher": "TaielMartinez",
+    "engines": {
+        "vscode": "^1.75.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/TaielMartinez/sm-angular-extensions"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "esbenp.prettier-vscode",
+        "angular.ng-template",
+        "dannymcgee.ng-html",
+        "mikestead.dotenv",
+        "infinity1207.angular2-switcher",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "syler.sass-indented",
+        "AndersEAndersen.html-class-suggestions",
+        "Zignd.html-css-class-completion",
+        "tal7aouy.icons"
+    ]
+}
